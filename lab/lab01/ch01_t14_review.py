@@ -1,1 +1,2 @@
-skill_complated
+skill_complated = "python syntax"
+ex
