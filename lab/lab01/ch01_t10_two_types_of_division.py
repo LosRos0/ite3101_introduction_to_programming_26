@@ -1,4 +1,7 @@
 cucumbers = 100
 num_people = 6
 
-whole_cucumber_per_person = cucumbers
+whole_cucumber_per_person = cucumbers // num_people
+print(whole_cucumber_per_person)
+
+float_cucumbers_per_person = cucumbers / num_people
