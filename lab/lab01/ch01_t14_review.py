@@ -1,2 +1,2 @@
 skill_complated = "python syntax"
-ex
+exercises_complated = 13
