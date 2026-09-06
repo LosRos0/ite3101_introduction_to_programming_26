@@ -3,4 +3,4 @@ exercises_complated = 13
 
 point_per_exercise = 5
 
-point
+point_total =
