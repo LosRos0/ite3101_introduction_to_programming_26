@@ -1,4 +1,4 @@
-skill_complated = "python Syntax"
+skill_completed = "python Syntax"
 exercises_completed = 13
 
 points_per_exercise = 5
