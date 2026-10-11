@@ -1,2 +1,2 @@
-parr
-print
+parrot = "Norwegian Blue"
+print()
