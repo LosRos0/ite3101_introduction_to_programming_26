@@ -2,4 +2,4 @@
 
 maximum = None
 
-print(maximum)
+print(maximum(3,7,2))
