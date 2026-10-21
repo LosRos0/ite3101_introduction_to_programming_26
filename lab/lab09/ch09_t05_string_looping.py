@@ -12,6 +12,3 @@ for letter in word:
     if letter == "i":
         print(letter)
 
-word = "Codecademy"
-for letter in word:
-    print(letter)
