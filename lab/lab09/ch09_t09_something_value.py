@@ -20,3 +20,4 @@ total = 0
 
 for key in prices:
     print(value)
+    print
