@@ -2,4 +2,4 @@
 
 maximum = (3, 7, 1)
 
-print(maximum)
+print(max(3, 7, 1))
