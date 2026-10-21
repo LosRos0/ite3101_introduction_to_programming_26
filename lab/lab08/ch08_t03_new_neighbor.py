@@ -7,4 +7,4 @@ zoo_animals[2] = "hyena"
 
 # What shall fill the void left by our dear departed tiger?
 # Your code here!
-suitcase[1] = "lion"
+ suitcase[1] = "lion"
