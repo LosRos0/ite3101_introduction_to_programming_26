@@ -1,5 +1,5 @@
 # Set maximum to the max value of any set of numbers on line 3!
 
-maximum = None
+maximum = (3, 7,)
 
-print(max(3, 7, 1))
+print(maximum)
