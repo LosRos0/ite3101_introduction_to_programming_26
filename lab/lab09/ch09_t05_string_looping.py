@@ -11,3 +11,7 @@ for letter in word:
     # Only print out the letter i
     if letter == "i":
         print(letter)
+
+word = "Codecademy"
+for letter in word:
+    print(letter)
