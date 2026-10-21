@@ -2,4 +2,4 @@
 
 from math import *
 
-print (25)
+print(sqrt(25))
