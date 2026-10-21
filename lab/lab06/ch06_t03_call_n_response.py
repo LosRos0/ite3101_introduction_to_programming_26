@@ -4,5 +4,7 @@ def square(n: float) -> float:
     print("%d squared is %d." % (n, squared))
     return squared
 
+
+square(10)
 # Call the square function on line 10! Make sure to
 # include the number 10 between the parentheses.
