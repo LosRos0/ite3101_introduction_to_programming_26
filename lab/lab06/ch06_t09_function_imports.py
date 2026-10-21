@@ -2,3 +2,4 @@
 
 from math import *
 
+print (25)
