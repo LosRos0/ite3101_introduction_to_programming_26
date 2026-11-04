@@ -2,7 +2,7 @@ m = [1, 2, 3]
 n = [4, 5, 6]
 
 # Add your code here!
-def join_lists(x, y):
+def join_lists(m, n):
     return m + n
 
  print(join_lists(m, n))
