@@ -1,3 +1,5 @@
+from typing import list
+
 n = [3, 5, 7]
 
 
