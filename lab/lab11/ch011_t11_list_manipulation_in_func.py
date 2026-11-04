@@ -5,3 +5,6 @@ def list_extender(lst):
     return lst
 
  print(list_extender(n))
+def list_extender(lst):
+    lst.append(9)
+    return lst
