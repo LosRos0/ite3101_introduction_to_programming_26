@@ -1,3 +1,4 @@
+students = [lloyd, alice, tyler]
 lloyd = {
     "name": "Lloyd",
     "homework": [90.0, 97.0, 75.0, 92.0],
