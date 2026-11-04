@@ -1,7 +1,7 @@
 n = [3, 5, 7]
 
 
-def print_list(x):
+def print_listn):
 
 
 for i in range(0, len(n)):
