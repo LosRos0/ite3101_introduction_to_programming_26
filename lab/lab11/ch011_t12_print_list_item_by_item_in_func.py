@@ -5,6 +5,6 @@ def print_list(n):
 
 
 for i in range(0, len(n)):
-    print(n[i])
+    print(x[i])
 
 print_list(n)
