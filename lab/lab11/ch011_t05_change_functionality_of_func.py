@@ -1,7 +1,5 @@
 number = 5
 
-def number_function(number):
-    return number * 3
 
 def my_function(x: int) -> int:
     return x + 3
@@ -9,3 +7,5 @@ def my_function(x: int) -> int:
 
 print(my_function(number))
 
+def number_function(number):
+    return number * 3
