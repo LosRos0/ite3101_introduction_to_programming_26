@@ -49,5 +49,3 @@ for turn in range(4):
             print("Game Over")
         else:
             print_board(board)
-
-        print_board(board)
