@@ -46,6 +46,4 @@ for turn in range(4):
         if turn == 3:
             print("Game Over")
         print_board(board)
-if guess_row == ship_row and guess_col == ship_col:
-    print("Congratulations! You sank my battleship!")
-    break
+v
