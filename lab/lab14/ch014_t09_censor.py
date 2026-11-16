@@ -1,5 +1,5 @@
 def censor(text, word):
-    words = text.split(" ")
+    words = text.split()
 
     for i in range(len(words)):
         if words[i] == word:
