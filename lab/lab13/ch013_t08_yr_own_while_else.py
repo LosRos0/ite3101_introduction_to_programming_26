@@ -10,10 +10,10 @@ while guesses_left > 0:
         print("You win!")
         break
 
-    guesses_left -= 1
+    guesses_left = 3
 else:
     print("You lose.")
-    
+
 
 # Generates a number from 1 through 10 inclusive
 random_number = randint(1, 10)
